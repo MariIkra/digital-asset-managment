@@ -1,0 +1,9 @@
+/Assets
+	/branding
+		/logos
+	/documents
+	/marketing
+/Metadata
+	metadata spreadsheet.xlsx
+/Taxonomy
+	folder_structure.txt
